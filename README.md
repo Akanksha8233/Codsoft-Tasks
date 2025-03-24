@@ -1,10 +1,5 @@
 This repository contains three machine learning projects implemented in Python using Jupyter Notebook.
 Projects:
-1. Titanic Survival Prediction
-2. Movie Rating Prediction
-3. Iris Flower Classification# Codsoft-Tasks
-
-
 
 1. Titanic Survival Prediction
 Objective:
